@@ -1,4 +1,4 @@
-FROM ghcr.io/bballiance/miaogram
+FROM ghcr.io/bballiance/miaogram:v1.3.0
 
 COPY *.py /miaogram/extra/
 
